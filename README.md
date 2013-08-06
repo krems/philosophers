@@ -1,0 +1,4 @@
+philosophers
+============
+
+Classic exercise
